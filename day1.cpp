@@ -1,12 +1,6 @@
 #include <iostream>
 using namespace std;
 int main(){
-    // cout
-    // cout <<"This is Section k23RN" <<endl;
-    // cout <<"Best Section in Btech";
-    // cout <<"Name - Akash Kumar Malik" <<endl;
-    // cout <<"Class - K23RN and Roll No is 30";
-    // cout <<"Phone Number = 8394003363";
 
     // cin 
     // int a,b,sum;
